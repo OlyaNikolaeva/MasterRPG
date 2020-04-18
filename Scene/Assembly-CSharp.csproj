@@ -90,6 +90,7 @@
     <Compile Include="Assets\ScriptsNastya\Stats\EnemyStats.cs" />
     <Compile Include="Assets\ScriptsNastya\Stats\PlayerStats.cs" />
     <Compile Include="Assets\ScriptsNastya\Stats\Stat.cs" />
+    <None Include="Assets\Models\Jeremy\Docs\MaleCharacterAnimation.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/asyag/Desktop/Новая папка (2)/MasterRPG/Scene/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
