@@ -7,8 +7,6 @@ using UnityEngine.SceneManagement;
 public class PauseScript : MonoBehaviour
 {
    
-     public class Pause : MonoBehaviour
-    {
         public bool pause = false;
         public GameObject PauseUI;
 
@@ -61,6 +59,6 @@ public class PauseScript : MonoBehaviour
             SceneManager.LoadScene(0);
         }
 
-     }
+     
 
 }
